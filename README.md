@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Piyush Gautam</h1>
-<h3 align="center">A passionate frontend and hardware enthusiast from India</h3>
+<h1 align="center">Hi , I'm Piyush Gautam</h1>
+<h3 align="center">A passionate hardware design and machine learning enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush12gm&label=Profile%20views&color=0e75b6&style=flat" alt="piyush12gm" /> </p>
 
-- 🌱 I’m currently learning **Web Development, Verilog, and DSA**
+- 🌱 I’m currently learning ** Verilog, Machine Learning and Arduino programming **
 
-- ⚡ Fun fact **I love Problem Solving and exploring Hardware Design!**
+- ⚡ Fun fact **I love Problem Solving, exploring Hardware Design, and diving into Machine Learning!**
 
 ---
 
