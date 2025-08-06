@@ -20,15 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Vivado_logo.svg" alt="Vivado" width="40" height="40"/>
-</a>
-<a href="http://iverilog.icarus.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Elbert4843/iverilog-logos/main/iverilog-logo.png" alt="Icarus Verilog" width="40" height="40"/>
-</a>
-<a href="http://gtkwave.sourceforge.net/" target="_blank">
-  <img src="https://raw.githubusercontent.com/sourabhv/Flapjax/master/resources/icons/gtkwave.png" alt="GTKWave" width="40" height="40"/>
-</a>
+ 
 <a href="https://www.cprogramming.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </a>
@@ -52,9 +44,6 @@
 </a>
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</a>
-<a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LTspice_icon.png" alt="LTspice" width="40" height="40"/>
 </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/>
