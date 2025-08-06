@@ -1,18 +1,9 @@
-<h1 align="center">Hi , I'm Piyush Gautam</h1>
+<h1 align="center">Hi 👋, I'm Piyush Gautam</h1>
 <h3 align="center">A passionate hardware design and machine learning enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush12gm&label=Profile%20views&color=0e75b6&style=flat" alt="piyush12gm" /> </p>
-
-- 🌱 I’m currently learning ** Verilog, Machine Learning and Arduino programming **
+- 🌱 I’m currently learning **Verilog, Machine Learning, and Arduino programming**
 
 - ⚡ Fun fact **I love Problem Solving, exploring Hardware Design, and diving into Machine Learning!**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- You can add social links here like LinkedIn, Twitter, etc. -->
-</p>
 
 ---
 
