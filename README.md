@@ -20,12 +20,21 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Xilinx_logo.svg" alt="Vivado" width="40" height="40"/></a>
+  <a href="http://iverilog.icarus.com/" target="_blank"><img src="https://raw.githubusercontent.com/zipcpu/wbscope/master/doc/images/iverilog.png" alt="Icarus Verilog" width="40" height="40"/></a>
+  <a href="http://gtkwave.sourceforge.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GTKWAVE_logo.png" alt="GTKWave" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
+  <a href="https://code.visualstudio.com/" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
+  <a href="https://colab.research.google.com/" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> 
+  <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LTspice_icon.png" alt="LTspice" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/>
+</a>
 </p>
 
 ---
